@@ -184,14 +184,13 @@ header span {
 
 #special div {
     display: block;
-    margin: auto;
-    position: absolute;
-    top: 338px;
-    left: 65px;
+    margin: 0 auto;
+    width: 1200px;
+    font-size: 0;
 }
 
 #images img {
-    width: 300px; 
+    width: 400px; 
 }
 #special button {
     border-radius: 40px;
